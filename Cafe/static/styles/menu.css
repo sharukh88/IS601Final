@@ -119,7 +119,7 @@ main {
 
 .coffee-menu-title {
   --b: 6px;
-  --w: 440px;
+  --w: 360px;
   --g: 15px;
   --c: #754332;
 
@@ -156,5 +156,10 @@ main {
 }
 
 .coffee-menu {
+  margin-top: 20px;
+}
+
+/* Donut Menu */
+.donut-menu {
   margin-top: 20px;
 }
